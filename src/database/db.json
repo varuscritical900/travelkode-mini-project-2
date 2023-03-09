@@ -1,0 +1,129 @@
+{
+  "user": [
+    {
+      "id": 1001,
+      "destTitle": "Bora Bora",
+      "email": "Polynesia Update",
+      "title": "Web Dev",
+      "mobile": "$700",
+      "photo": "https://images.pexels.com/photos/1188473/pexels-photo-1188473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "companyName": "The epitome of romance, Bora Bora is one of the best travel destinations in the World. This place is known for its luxurious stays and adventurous activities.",
+      "department": "Finance"
+    },
+    {
+      "id": 1002,
+      "destTitle": "Machu Picchu",
+      "email": "Peru",
+      "title": "Web Dev",
+      "mobile": "$700",
+      "photo": "https://images.pexels.com/photos/2929906/pexels-photo-2929906.jpeg",
+      "companyName": "KodeGo",
+      "department": "Finance"
+    }
+  ],
+  "department": [
+    {
+      "id": 1,
+      "departmentName": "USA"
+    },
+    {
+      "id": 2,
+      "departmentName": "Polynesia"
+    },
+    {
+      "id": 3,
+      "departmentName": "Canada"
+    },
+    {
+      "id": 4,
+      "departmentName": "Philippines"
+    },
+    {
+      "id": 5,
+      "departmentName": "ICT"
+    }
+  ],
+  "excursion": [
+    {
+      "id": 1,
+      "imgSrc": "https://images.pexels.com/photos/1188473/pexels-photo-1188473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "destTitle": "Bora Bora",
+      "location": "Polynesia",
+      "grade": "Cultural RELAX",
+      "Fees": "$700",
+      "description": "The epitome of romance, Bora Bora is one of the best travel destinations in the World. This place is known for its luxurious stays and adventurous activities."
+    },
+    {
+      "id": 2,
+      "imgSrc": "https://images.pexels.com/photos/2929906/pexels-photo-2929906.jpeg",
+      "destTitle": "Machu Picchu",
+      "location": "Peru",
+      "grade": "Cultural RELAX",
+      "Fees": "$600",
+      "description": "Huayna Picchu is a mountain in Peru, rising over Machu Picchu, the so-called Lost City of Incas. This place is popular among tourists as the sunrise from the Sun Gate is simply spectacular"
+    },
+    {
+      "id": 3,
+      "imgSrc": "https://images.pexels.com/photos/1540108/pexels-photo-1540108.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "destTitle": "Great Barrier Reef",
+      "location": "Australia",
+      "grade": "Cultural RELAX",
+      "Fees": "$700",
+      "description": "One of the most remarkable Australian natural gift is the Great Barrier Reef. The hallmark of this place is lavish and beauty. Always intersting to be in this place"
+    },
+    {
+      "id": 4,
+      "imgSrc": "https://images.pexels.com/photos/3889704/pexels-photo-3889704.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "destTitle": "Cappadocia",
+      "location": "Turkey",
+      "grade": "Cultural RELAX",
+      "Fees": "$800",
+      "description": "According to the World Tourism Ranking, 45 Million people vist Turkey each year, and from that about 2 Million come to visit Cappadocia. This place is known for its luxurious stays and adventourous activities"
+    },
+    {
+      "id": 5,
+      "imgSrc": "https://images.pexels.com/photos/5804350/pexels-photo-5804350.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "destTitle": "Guanajuato",
+      "location": "Mexico",
+      "grade": "Cultural RELAX",
+      "Fees": "$1100",
+      "description": "A city in central Mexico, Guanajuato is known for its history of silver mining and colonial architecture. The houses in the city are very attractively painted with the most bright colors available. Always welcome."
+    },
+    {
+      "id": 6,
+      "imgSrc": "https://images.pexels.com/photos/1797121/pexels-photo-1797121.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "destTitle": "Cinque Terre",
+      "location": "Italy",
+      "grade": "Cultural RELAX",
+      "Fees": "$840",
+      "description": "The vibrant hues of the houses are its benchmark and explain the beauty of this place. Also if you are a foodie and love seafood, you will be exhilarated with the choice you are about to get here. Happy exploring great food!"
+    },
+    {
+      "id": 7,
+      "imgSrc": "https://images.pexels.com/photos/1534057/pexels-photo-1534057.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "destTitle": "Angkor Wat",
+      "location": "Cambodia",
+      "grade": "Cultural RELAX",
+      "Fees": "$840",
+      "description": "Angkot wat represents the entire range of khmer art"
+    },
+    {
+      "id": 8,
+      "imgSrc": "https://images.pexels.com/photos/1603650/pexels-photo-1603650.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "destTitle": "Taj Mahal",
+      "location": "India",
+      "grade": "Cultural RELAX",
+      "Fees": "$900",
+      "description": "An immense mausoleum of white marble, built-in Agra by Mughal emperor Shah Jahan in memory of his wife Mumtaz, the monument is breathtakingly beautiful. This place is know for its luxurious stays and adventurous activities."
+    },
+    {
+      "id": 9,
+      "imgSrc": "https://images.pexels.com/photos/2711640/pexels-photo-2711640.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "destTitle": "Bali Island",
+      "location": "Indonesia",
+      "grade": "Cultural RELAX",
+      "Fees": "$500",
+      "description": "Bali is an Indonesian Island and one of the best holiday destinations in the Indonesian achepelago. Bali is know for its volcanic mountains, history, art & culture, food, temples and beautiful sandy beaches."
+    }
+  ]
+}
