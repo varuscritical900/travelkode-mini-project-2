@@ -1,3 +1,10 @@
+#TravelKode
+
+TravelKode - is a mini project developed using React and SASS, as part of the KodeGo bootcamp. The website has been designed to provide an easy-to-use platform for both travelers and tour operators. The website offers a comprehensive CRUD functionality, allowing users to create, edit, view, or delete tours. This feature enables tour operators to manage their tour services efficiently while providing travelers with a seamless booking experience. With TravelKode, travelers can browse and book tours based on their preferences and budget. The website displays a list of available tours, along with the tour details, such as price, duration, and itinerary. Travelers can view the tours' details and book their preferred tour by selecting the appropriate tour and providing their details. Tour operators can offer their tour services by adding their tours to the platform. They can create and manage their tours by adding relevant information, such as tour name, description, itinerary, and price. The platform also allows tour operators to edit or delete their tours as needed. The website's design is sleek and modern, with a focus on user experience. The use of SASS for design enhances the website's aesthetics, making it visually appealing and easy to navigate. Overall, TravelKode is a functional and user-friendly platform that allows travelers to explore and book tours while providing tour operators with an efficient way to offer their tour services.
+
+
+
+
 # Getting Started with Create React App
 
 # Steps in Creating this app(CRUD-JsonServer)
